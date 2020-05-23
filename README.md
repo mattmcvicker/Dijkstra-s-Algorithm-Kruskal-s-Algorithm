@@ -1,1 +1,1 @@
-# Dijkstra-s-Algorithm-Kruskal-s-Algorithm
+# DijkstrasAlgorithm and KruskalsAlgorithm
